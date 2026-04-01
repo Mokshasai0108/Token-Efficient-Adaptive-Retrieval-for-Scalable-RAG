@@ -1,6 +1,6 @@
 # TEAR — Token-Efficient Adaptive Retrieval for Scalable RAG
 
-> A research-grade RAG system that adaptively retrieves documents, enforces token budgets,
+> A RAG system that adaptively retrieves documents, enforces token budgets,
 > eliminates redundancy, and compresses context — maximizing accuracy per token.
 
 ---
@@ -107,4 +107,3 @@ compression_ratio = 0.6    # keep top 60% sentences
 
 ---
 
-```
